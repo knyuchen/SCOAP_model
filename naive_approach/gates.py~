@@ -1,8 +1,0 @@
-def and2 (a, b):
-   CC0 = min (a[0] + b[0]) + 1
-   CC1 = a[1] + b[1] + 1
-   return CC0, CC1
-
-wires = dict();
-
-wires["A"] = [1, 1, 0]
